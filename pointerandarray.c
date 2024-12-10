@@ -1,4 +1,4 @@
-//Pointer and arrays
+//Pointer and variables
 #include<stdio.h>
 
 int main()

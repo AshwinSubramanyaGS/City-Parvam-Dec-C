@@ -1,0 +1,688 @@
+integer and logic
+C Program to Check if a given Integer is Odd or Even
+C Program to Check if a given Integer is Positive or Negative
+C Program to Read Two Integers M and N & Swap their Values
+C Program to Check if a given Integer is Odd or Even and print Even or Odd
+C Program to Calculate the Sum of Odd & Even Numbers
+C Program to Check if a given Integer is Positive or Negative
+C Program to Find if Number is Divisible by 5
+C Program to Read Two Integers M and N & Swap their Values
+C Program to Accept two Integers and Check if they are Equal
+
+C Program to Find the Biggest of 3 Numbers
+C Program to Compute the Sum of Digits in a given Integer
+C Program to Reverse a Number & Check if it is a Palindrome
+C Program to Find the Biggest of 3 Numbers
+C Program to Reverse a Given Number
+C Program to Find the Sum of two Binary Numbers
+C Program to Find Multiplication of two Binary Numbers
+C Program to find Product of 2 Numbers without using * operation and using  Recursion
+C Program to Check whether a given Number is Armstrong
+C Program to Check whether a given Number is Perfect Number
+C Program to Print Armstrong Number from 1 to 1000
+C Program to Add two Complex Numbers using structures
+C Program to Generate Fibonacci Series of N Numbers using Command-Line Argument(batch 2)
+C Program to Find the Sum of first 50 Natural Numbers using For Loop
+C Program to Input 3 Arguments and Operate Appropriately on the Numbers
+C Program to Print the Program Name and All its Arguments
+
+C Program to Calculate the Addition or Subtraction & Trace of 2 Matrices
+C Program to Find the Transpose of a given Matrix
+C Program to Compute the Product of Two Matrices
+C Program to Calculate the Sum & Difference of the Matrices
+C Program to Interchange any two Rows & Columns in the given Matrix
+C Program to Sort Rows of the Matrix in Ascending & Columns in Descendng Order
+
+
+pointer
+C Program to Calculate the Sum of the Array Elements using Pointer
+
+
+
+
+
+Array and strings
+
+C Program to Calculate the Sum of Odd & Even Numbers in array
+C Program to find smallest and largest no in an array
+C Program to Find the Number of Integers Divisible by 5 in an array
+C Program to Check if a given String is Palindrome
+C Program to Check if a String is a Palindrome without using the Built-in Function
+C Program to Check whether a given String is Palindrome or not using Recursion
+C Program To Print Smallest and Biggest possible Word which is Palindrome in a given String
+C Program to Find the Largest & Smallest Word in a String
+C Program to read two Strings & Concatenate the Strings
+C Program to Concatenate two Strings Lexically
+C Program to Check if the Substring is present in the given String
+C Program to Accepts two Strings & Compare them
+C Program to Find the Length of a String without using the Built-in Function
+C Program to Replace Lowercase Characters by Uppercase & Vice-Versa
+C Program to Remove given Word from a String
+C Program to Remove all Characters in Second String which are present in First String
+C Program to Replace all the Characters by Lowercase
+C Program to Reverse the String using Recursion
+C Program to Reverse every Word of given String
+C Program to Count the Number of Vowels & Consonants in a Sentence
+C Program to Delete All Repeated Words in String
+C Program to Reverse the String using Both Recursion and Iteration
+C Program to Count the Total Number of Words in the Sentence using Command Line Argument
+C Program to Check whether two Strings are Anagrams
+C Program to Display every possible Combination of two Words or Strings from the input Strings without Repeated Combinations
+C Program to List All Lines containing a given String
+C Program to Print the Words Ending with Letter S
+C Program to Insert Character/Word in any Desired Location in a String
+C Program to Count the Number of Unique Words
+C Program to Search a Word & Replace it with the Specified Word
+C Program to Display the Characters in Prime Position a given String
+C Program to Count Number of Words in a given Text Or Sentence
+C Program to Print Combination of two Words of two given Strings without any Repetition
+C Program to Display Every Possible Combination of Two Words from the given 2 String without Displaying Repeated Combinations
+C Program to Determine if One String is a Circular Permutation of Another String
+C Program to Find the Consecutive Occurrence of any Vowel in a String
+C Program to Input 2 Binary Strings and Print their Binary Sum
+C Program to Input a String with at least one Number, Print the Square of all the Numbers in a String
+C Program which Converts an Integer to String & vice-versa
+C program that takes input as 2323 and gives output as 2332. ie. the new number should be greater than the previous number but should have the same digits
+C Program to Find the Sum of ASCII values of All Characters in a given String
+
+C Program to Sort the Array in an Ascending Order
+C Program to Sort the Array in Descending Order bubble sort
+C Program to Sort Names in an Alphabetical Order
+C Program to Merge and Sort Elements of 2 different Arrays
+C Program to Merge the Elements of 2 Sorted Array
+C Program to Sort N Numbers in Ascending Order using Bubble Sort
+C Program to Split an Array from Specified Position & Add First Part to the End
+C Program to Accept an Array & Swap Elements using Pointers
+
+C Program to Generate Pascal Triangle 1 D Array
+C Program to Print the Number of Odd & Even Numbers in an Array
+C Program to Print All the Repeated Numbers with Frequency in an Array
+C Program to Print the kth Element in the Array
+
+C Program to Input a String & Store their Ascii Values in an Integer Array & Print the Array
+C Program to Input an Array, Store the Squares of these Elements in an Array & Print it
+C Program to Find the two Elements such that their Sum is Closest to Zero
+C Program to Find if a given Integer X appears more than N/2 times in a Sorted Array of N Integers
+C Program to Find the Median of the Elements after Merging these 2 Sorted Arrays with Same Size
+C Program to Find Union & Intersection of 2 Arrays
+C Program to Find Ceiling & Floor of X given a Sorted Array & a value X
+C Program to Find the Summation of Node values at Row or Level
+
+
+C Program to Reverse a Number & Check if it is a Palindrome
+C Program to Find the Sum of two Binary Numbers
+
+loop
+C Program to Compute the Sum of Digits in a given Integer
+How will you print numbers from 1 to 100 without using loop?
+C Program to find Product of 2 Numbers without using Recursion
+C Program to Check whether a given Number is Armstrong
+C Program to Check whether a given Number is Perfect Number
+C Program to Print Armstrong Number from 1 to 1000
+C Program to Generate Fibonacci Series of N Numbers using Command-Line Argument
+C Program to Compute First N Fibonacci Numbers using Command Line Arguments
+C Program to Find the Sum of first 50 Natural Numbers using For Loop
+C Program to Swap the Contents of two Numbers using Bitwise XOR Operation
+C Program to Multiply given Number by 4 using Bitwise Operators
+
+Array 
+C Program to Calculate Sum & Average of an Array
+C Program to Calculate the Sum of the Array Elements using Pointer
+C Program to Calculate Sum of all Elements of an Array using Pointers as Arguments
+C Program to Compute the Sum of two One-Dimensional Arrays using Malloc
+C Program to Find the Sum of Contiguous Subarray within a 1 – D Array of Numbers which has the Largest Sum
+
+
+
+Recursion
+C Program to find Sum of Digits of a Number using Recursion
+C Program to find Reverse of a Number using Recursion
+C Program to find Sum of N Numbers using Recursion
+C Program to find whether a Number is Prime or Not using Recursion
+C Program to Print Binary Equivalent of an Integer using Recursion
+C Program to find Product of 2 Numbers using Recursion
+C Program to find whether a Number is Prime or Not using Recursion
+C Program to find the Factorial of a Number using Recursion
+C Program to find Product of 2 Numbers using Recursion
+C Program to find Power of a Number using Recursion
+C Program to find the Nth Fibonacci Number using Recursion
+C Program to find Sum of Digits of a Number using Recursion
+C Program to find Reverse of a Number using Recursion
+C Program to Reverse the String using Recursion
+C Program to Copy One String to Another using Recursion
+C Program to Check whether a given String is Palindrome or not using Recursion
+C Program to Implement Selection Sort Recursively
+C Program to find the Biggest Number in an Array of Numbers using Recursion
+
+C Program to find Sum of N Numbers using Recursion
+C Program to find LCM of a Number using Recursion
+C Program to find GCD of given Numbers using Recursion
+C Program to find HCF of a given Number using Recursion
+C Program to Perform Binary Search using Recursion
+
+Simple Decission making with loops( using all loops)
+
+C Program to Calculate the Sum of Odd & Even Numbers in an array
+C Program to list all Integers Divisible by x from m to n
+C Program to Compute the Sum of Digits in a given Integer
+C Program to Reverse a Number & Check if it is a Palindrome
+C Program to Generate Fibonacci Series of N Numbers 
+C Program to Generate numerical patterns
+	1 2 3 4 5
+	1 2 3 4 5 
+	1 2 3 4 5
+	1 2 3 4 5
+	1 2 3 4 5
+	
+	1 2 3 4 5 
+	1 2 3 4   
+	1 2 3 
+	1 2
+	1
+	
+	5 4 3 2 1
+	5 4 3 2
+	5 4 3 
+	5 4
+	5
+	
+	1 
+	1 2
+	1 2 3
+	1 2 3 4
+	1 2 3 4 5
+	
+	5
+	5 4 
+	5 4 3 
+	5 4 3 2
+	5 4 3 2 1
+	
+	
+	        5
+		  4 5
+		3 4 5
+	  2 3 4 5
+	1 2 3 4 5
+	
+	        1
+		  2 1
+		3 2 1
+	  4 3 2 1
+	5 4 3 2 1
+	
+	1 2 3 4 5
+	  2 3 4 5
+	    3 4 5
+		  4 5
+		    5
+	
+	5 4 3 2 1
+	  4 3 2 1
+	    3 2 1
+	      2 1
+	        1
+	
+	
+	A B C D E D C B A
+	A B C D   D C B A
+	A B C       C B A 
+	A B           B A
+	A               A
+	
+
+/*      A B C D E D C B A
+	A B C D   D C B A
+	A B C       C B A 
+	A B           B A
+	A               A
+*/
+#include <stdio.h>
+
+int main()
+{
+    int i=0,j=0,n=5;
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<n;j++){
+                if(j<n-i)
+                printf("%c ",'A'+j);
+                else
+                printf("  ");
+        }
+        j-=2;
+        for(;j>=0;j--)
+        {
+                if(j<n-i)
+                printf("%c ",'A'+j);
+                else
+                printf("  ");        
+        }       
+        printf("\n");    
+    }
+    return 0;
+}
+	
+	Half pyramid of *
+Half pyramid of numbers
+Half pyramid of alphabets
+Inverted half pyramid of *
+Inverted half pyramid of numbers
+Full pyramid of *
+Full pyramid of numbers
+Inverted full pyramid of *
+Pascal's triangle
+Floyd's triangle
+Example 1: Half Pyramid of *
+*
+* *
+* * *
+* * * *
+* * * * *
+
+
+#include <stdio.h>
+int main() {
+   int i, j, rows;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = 1; i <= rows; ++i) {
+      for (j = 1; j <= i; ++j) {
+         printf("* ");
+      }
+      printf("\n");
+   }
+   return 0;
+}
+Example 2: Half Pyramid of Numbers
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+
+#include <stdio.h>
+int main() {
+   int i, j, rows;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = 1; i <= rows; ++i) {
+      for (j = 1; j <= i; ++j) {
+         printf("%d ", j);
+      }
+      printf("\n");
+   }
+   return 0;
+}
+Example 3: Half Pyramid of Alphabets
+A
+B B
+C C C
+D D D D
+E E E E E
+
+
+#include <stdio.h>
+int main() {
+   int i, j;
+   char input, alphabet = 'A';
+   printf("Enter an uppercase character you want to print in the last row: ");
+   scanf("%c", &input);
+   for (i = 1; i <= (input - 'A' + 1); ++i) {
+      for (j = 1; j <= i; ++j) {
+         printf("%c ", alphabet);
+      }
+      ++alphabet;
+      printf("\n");
+   }
+   return 0;
+}
+Example 4: Inverted half pyramid of *
+* * * * *
+* * * *
+* * * 
+* *
+*
+
+
+#include <stdio.h>
+int main() {
+   int i, j, rows;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = rows; i >= 1; --i) {
+      for (j = 1; j <= i; ++j) {
+         printf("* ");
+      }
+      printf("\n");
+   }
+   return 0;
+}
+Example 5: Inverted half pyramid of numbers
+1 2 3 4 5
+1 2 3 4 
+1 2 3
+1 2
+1
+
+
+#include <stdio.h>
+int main() {
+   int i, j, rows;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = rows; i >= 1; --i) {
+      for (j = 1; j <= i; ++j) {
+         printf("%d ", j);
+      }
+      printf("\n");
+   }
+   return 0;
+}
+Example 6: Full Pyramid of *
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+
+
+#include <stdio.h>
+int main() {
+   int i, space, rows, k = 0;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = 1; i <= rows; ++i, k = 0) {
+      for (space = 1; space <= rows - i; ++space) {
+         printf("  ");
+      }
+      while (k != 2 * i - 1) {
+         printf("* ");
+         ++k;
+      }
+      printf("\n");
+   }
+   return 0;
+}
+Example 7: Full Pyramid of Numbers
+        1
+      2 3 2
+    3 4 5 4 3
+  4 5 6 7 6 5 4
+5 6 7 8 9 8 7 6 5
+
+
+#include <stdio.h>
+int main() {
+   int i, space, rows, k = 0, count = 0, count1 = 0;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = 1; i <= rows; ++i) {
+      for (space = 1; space <= rows - i; ++space) {
+         printf("  ");
+         ++count;
+      }
+      while (k != 2 * i - 1) {
+         if (count <= rows - 1) {
+            printf("%d ", i + k);
+            ++count;
+         } else {
+            ++count1;
+            printf("%d ", (i + k - 2 * count1));
+         }
+         ++k;
+      }
+      count1 = count = k = 0;
+      printf("\n");
+   }
+   return 0;
+}
+Example 8: Inverted full pyramid of *
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+
+#include <stdio.h>
+int main() {
+   int rows, i, j, space;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = rows; i >= 1; --i) {
+      for (space = 0; space < rows - i; ++space)
+         printf("  ");
+      for (j = i; j <= 2 * i - 1; ++j)
+         printf("* ");
+      for (j = 0; j < i - 1; ++j)
+         printf("* ");
+      printf("\n");
+   }
+   return 0;
+}
+Example 9: Pascal's Triangle
+           1
+         1   1
+       1   2   1
+     1   3   3    1
+   1  4    6   4   1
+ 1  5   10   10  5   1
+
+
+#include <stdio.h>
+int main() {
+   int rows, coef = 1, space, i, j;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = 0; i < rows; i++) {
+      for (space = 1; space <= rows - i; space++)
+         printf("  ");
+      for (j = 0; j <= i; j++) {
+         if (j == 0 || i == 0)
+            coef = 1;
+         else
+            coef = coef * (i - j + 1) / j;
+         printf("%4d", coef);
+      }
+      printf("\n");
+   }
+   return 0;
+}
+Example 10: Floyd's Triangle.
+1
+2 3
+4 5 6
+7 8 9 10
+
+
+#include <stdio.h>
+int main() {
+   int rows, i, j, number = 1;
+   printf("Enter the number of rows: ");
+   scanf("%d", &rows);
+   for (i = 1; i <= rows; i++) {
+      for (j = 1; j <= i; ++j) {
+         printf("%d ", number);
+         ++number;
+      }
+      printf("\n");
+   }
+   return 0;
+}
+
+
+Hollow Square Pattern with Diagonal
+The code for the hollow square star pattern is given below:
+
+*********
+**     **
+* *   * *
+*  * *  *
+*   *   *
+*  * *  *
+* *   * *
+**     **
+*********
+
+#include <stdio.h>  
+int main()  
+{  
+    int n;  
+    printf("Enter the number of rows");  
+    scanf("%d",&n);  
+    for(int i=1;i<=n;i++)  
+    {  
+        for(int j=1;j<=n;j++)  
+        {  
+            if(i==1 ||i==n||j==1||j==n-i+1||i==j||j==n)  
+            {  
+            printf("*");  
+            }  
+            else  
+            {  
+                  
+                      printf(" ");  
+                  }  
+                 
+            }        
+        printf("\n");  
+    }  
+      
+    return 0;  
+}  
+
+
+Rhombus Star Pattern
+The code for the rhombus star pattern is given below:
+      *******
+     *******
+    *******
+   *******
+  *******
+ *******
+*******
+#include <stdio.h>  
+  
+int main()  
+{  
+    int n;  
+    printf("Enter the number of rows");  
+    scanf("%d",&n);  
+    for(int i=n;i>=1;i--)  
+    {  
+        for(int j=1;j<=i-1;j++)  
+        {  
+            printf(" ");  
+        }  
+        for(int k=1;k<=n;k++)  
+        {  
+            printf("*");  
+        }  
+        printf("\n");  
+    }  
+    return 0;  
+}  
+
+Hollow Rhombus Star Pattern
+The code for the hollow rhombus star pattern is given below:
+
+#include <stdio.h>  
+  
+int main()  
+{  
+    int n;  
+    printf("Enter the number of rows");  
+    scanf("%d",&n);  
+    for(int i=n;i>=1;i--)  
+    {  
+        for(int j=1;j<=i-1;j++)  
+        {  
+            printf(" ");  
+        }  
+        for(int k=1;k<=n;k++)  
+        {  
+           if(i==1 || i==n || k==1 || k==n)  
+            printf("*");  
+            else  
+            printf(" ");   
+        }  
+        printf("\n");  
+    }  
+    return 0;  
+}  	
+	
+	programs on arrays
+C Program to Find the Second Largest & Smallest Elements in an Array
+C Program to Split an Array from Specified Position & Add First Part to the End
+C Program to Print All the Repeated Numbers with Frequency in an Array	
+C Program to Find 2 Elements in the Array such that Difference between them is Largest
+Write a C program to put even and odd elements of array in two separate array.
+C Program to Sort N Numbers in Descending Order using  selection sort
+
+	multi dimentional arrays
+C Program to Calculate the Addition or Subtraction of 2 Matrices
+C Program to Compute the Product of Two Matrices
+C Program to Check if a given Matrix is an Identity Matrix
+
+
+miscilanious 
+
+Write a C program to enter length in centimeter and convert it into meter and kilometer.
+Write a C program to find sum of first and last digit of a number.
+
+Write a C program to find all prime numbers between given interval using functions.
+
+
+	Programs on Strings
+
+C Program to Find String length.
+C Program to read two Strings & Concatenate the Strings.
+C Program to Check if the Substring is present in the given String.without standard functions
+Write a C program to remove first occurrence of a character from string.
+C Program to Find the frequency of a character in a string
+C Program to Sort Names in an Alphabetical Order
+C Program to Check if a given String is Palindrome
+C Program to Find the Largest & Smallest Word in a String
+C Program to Count the Number of Vowels & Consonants in a Sentence
+C Program to Remove all characters in a string except alphabets
+C Program to Accept 2 String & check whether all Characters in first String is Present in second String & Print
+C Program to Read a String and find the Sum of all Digits in the String
+C Program to Find the Frequency of Substring in the given String
+C program to count occurrences of a word in a given string
+C program to remove first occurrence of a word from string
+C program to trim leading white space characters from given string
+
+
+	Programs on Functions
+C Program to Check if a given Integer is Odd or Even
+C Program to Calculate the Sum of Odd & Even Numbers
+C Program to Check if a given Integer is Positive or Negative
+C Program to Find the Number of Integers Divisible by 5
+C Program to Read Two Integers M and N & Swap their Values
+C Program to Accept two Integers and Check if they are Equal
+C Program to Compute the Sum of Digits in a given Integer
+C Program to find Sum of Digits of a Number using Recursion
+C Program to find Reverse of a Number using Recursion
+C Program to find Sum of N Numbers using Recursion
+C Program to find whether a Number is Prime or Not using Recursion
+C Program to Print Binary Equivalent of an Integer using Recursion
+C Program to find Product of 2 Numbers using Recursion
+C Program to Find Sum of N Numbers using Recursion
+C Program Find the Length of Linked List without Recursion
+C Program to Find the Height of Tree using Recursion
+C Program to Find the Length of the String
+C Program to Reverse a Stack using Recursion
+C Program to Perform Binary Search using Recursion
+C Program to Check whether a Number is Prime or Not using Recursion
+
+linked list
+
+C Program to Create a Linked List & Display the Elements in the List
+C Program to Read a Linked List in Reverse
+C Program to Search for an Element in the Linked List using Recursion
+C Program to Search for an Element in the Linked List without using Recursion
+C Program to Display the Nodes of a Linked List in Reverse using Recursion
+C Program to Display all the Nodes in a Linked List using Recursion
+C Program to Display all the Nodes in a Linked List without using Recursion
+C Program to Display the Nodes of a Linked List in Reverse without using Recursion

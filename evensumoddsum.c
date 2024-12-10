@@ -10,8 +10,8 @@ int main()
     for(i=0;i<size;i++)
     {
         printf("%d ",a[i]);
-        esum=a[i]%2==0 ?esum+a[i] ? esum ;
-        osum=a[i]%2!=0 ?osum+a[i] ? osum ;
+        esum=a[i]%2==0 ?esum+a[i] :esum ;
+        osum=a[i]%2!=0 ?osum+a[i] : osum ;
         /*if(a[i]%2==0)
             esum+=a[i];//
         else 
